@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM4NGY3OWFlYjNjYWFjNmNjZmUzMzJjNzg1NzdjMzU0Zjk5YTFiNCZjdD1n/XE90Rm9DzCVfHb7zTe/giphy.gif](https://giphy.com/gifs/minecraft-live-minecraft-mob-vote-kGUzUvlbhIPoFAvexa)"
+    <img src="[[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM4NGY3OWFlYjNjYWFjNmNjZmUzMzJjNzg1NzdjMzU0Zjk5YTFiNCZjdD1n/XE90Rm9DzCVfHb7zTe/giphy.gif](https://giphy.com/gifs/minecraft-live-minecraft-mob-vote-kGUzUvlbhIPoFAvexa)](https://media0.giphy.com/media/kGUzUvlbhIPoFAvexa/giphy.gif?cid=ecf05e47x7jgxdckswxv2ymj4si3pg694nw7148pb1qif11m&rid=giphy.gif&ct=g)"
         width="200" />
     <h1 align="center">👋 Hey there! I'm Crys! 😃</h1>
     <h3 align="center">👋 Hey there! I am a Minecraft server and network configurator. I also love sharing my knowledge on my YouTube channel 🎥 where I show how to configure plugins and other cool features so that you can have the best server possible 🚀. If you have any problems or need help, don't hesitate to contact me! I'm here to ensure that your servers have the best experience ever. 💪
