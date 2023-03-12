@@ -26,5 +26,6 @@
 
 - ✨ Mi correo electronico es ariascristian938@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrCrys&layout=compact)](https://github.com/SrCrys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crys&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
