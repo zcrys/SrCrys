@@ -19,9 +19,7 @@
     </a>
 </div>
 
-
-
-<!--
+--
 ###✨About Me:
 
 - 🎃 Subo regularmente video en mi canal de [YouTube](https://www.youtube.com/@Mr-Crys/featured)
@@ -33,5 +31,3 @@
 - ✨ Mi correo electronico es ariascristian938@gmail.com
 
 
-
--->
