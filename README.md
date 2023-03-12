@@ -18,13 +18,11 @@
 --
 ###✨About Me:
 
-- 🎃 Subo regularmente video en mi canal de [YouTube](https://www.youtube.com/@Mr-Crys/featured)
-
-- 📱 Si quieres contactar directamente conmigo puedes unirte a mi [Discord](https://discord.gg/qqTzknbS45)
-
-- 🎁 Algunos de mis proyectos son totalmente free si quieres algo mas deseñado puedec comprar [Aquí](https://discord.gg/qqTzknbS45)
-
-- ✨ Mi correo electronico es ariascristian938@gmail.com
+- 💥 Hi there! I'm a passionate content creator who regularly uploads videos to my [YouTube](https://www.youtube.com/@Mr-Crys/featured) channel. 🎬
+        
+- 📱 If you want to connect with me directly, join my community on [Discord](https://discord.gg/qqTzknbS45)! 🤝
+        
+- 🎁 Also, I have some completely free projects. If you're looking for something more customized, don't hesitate to talk to me! [💬](https://discord.gg/qqTzknbS45)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crys&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
