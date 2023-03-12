@@ -1,13 +1,9 @@
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM4NGY3OWFlYjNjYWFjNmNjZmUzMzJjNzg1NzdjMzU0Zjk5YTFiNCZjdD1n/XE90Rm9DzCVfHb7zTe/giphy.gif"
         width="200" />
-    <h1 align="center">Hola como estas</h1>
-    <h3 align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum veritatis eaque minus! Aperiam,
-        minus? Dolorum reiciendis vero dolor voluptate maiores deserunt recusandae. Mollitia corporis expedita magnam,
-        sed libero possimus tempora. Reprehenderit perferendis vitae delectus totam sunt! Aperiam in deleniti modi vel
-        porro est consequuntur maiores ipsa. Reprehenderit ut laborum inventore iste amet magnam pariatur blanditiis
-        adipisci facere aliquid impedit, voluptatem quis quia. Saepe dolorem debitis quasi repellendus reprehenderit
-        labore enim!</h3>
+    <h1 align="center">👋 Hey there! I'm Crys! 😃</h1>
+    <h3 align="center">👋 Hey there! I am a Minecraft server and network configurator. I also love sharing my knowledge on my YouTube channel 🎥 where I show how to configure plugins and other cool features so that you can have the best server possible 🚀. If you have any problems or need help, don't hesitate to contact me! I'm here to ensure that your servers have the best experience ever. 💪
+    </h3>
 </div>
 
 <div id="header" align="center">
@@ -30,4 +26,5 @@
 
 - ✨ Mi correo electronico es ariascristian938@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrCrys&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
