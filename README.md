@@ -25,7 +25,7 @@
 
         - If you want any customized settings or some good configuration, you can contact me or buy a configuration on my [Discord](https://discord.gg/qqTzknbS45) server.
         
-- 🎁 Also, I have some completely free projects. If you're looking for something more customized, don't hesitate to talk to me! [💬](https://discord.gg/qqTzknbS45)
+- 🎁 Also, I have some completely free projects. If you're looking for something more customized, don't hesitate to talk to me! [CLICK](https://discord.gg/qqTzknbS45)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crys&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
