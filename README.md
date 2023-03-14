@@ -23,7 +23,7 @@
         
 - 📱 If you want to connect with me directly, join my community on [Discord](https://discord.gg/qqTzknbS45)! 🤝
 
-        - "If you want any customized settings or some good configuration, you can contact me or buy a configuration on my [Discord](https://discord.gg/qqTzknbS45) server."
+        - If you want any customized settings or some good configuration, you can contact me or buy a configuration on my [Discord](https://discord.gg/qqTzknbS45) server.
         
 - 🎁 Also, I have some completely free projects. If you're looking for something more customized, don't hesitate to talk to me! [💬](https://discord.gg/qqTzknbS45)
 
