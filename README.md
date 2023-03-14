@@ -25,6 +25,4 @@
         
 - 🎁 Also, I have some completely free projects. If you're looking for something more customized, don't hesitate to talk to me! [CLICK](https://discord.gg/qqTzknbS45)
 
-📂 The projects you find on my profile are completely free and open to use.
-👍 However, your support and engagement with my [YouTube](https://www.youtube.com/@Mr-Crys/featured) content is greatly appreciated! 📺
-👀 If you don't watch my content, don't worry: there's no need to support me there.
+- 📂 The projects you find on my profile are completely free and open to use. What a great thing! However, I would greatly appreciate your support on my YouTube channel. If you don't watch my content and only subscribe, don't worry, there's no need to support me there.
