@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy.gif?cid=ecf05e47grjtwv0ei1hk5aw95sptqgt9c542zfke3huyh9yn&rid=giphy.gif&ct=g"
+    <img src="[https://media0.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy.gif?cid=ecf05e47grjtwv0ei1hk5aw95sptqgt9c542zfke3huyh9yn&rid=giphy.gif&ct=g](https://media1.giphy.com/media/r8GMmlV8qGrfZ3txfX/giphy.gif)"
         width="200" />
     <h1 align="center">👋 Hey there! I'm Crys! 😃</h1>
     <h3 align="center">👋 Hey there! I am a Minecraft server and network configurator. I also love sharing my knowledge on my YouTube channel 🎥 where I show how to configure plugins and other cool features so that you can have the best server possible 🚀. If you have any problems or need help, don't hesitate to contact me! I'm here to ensure that your servers have the best experience ever. 💪
